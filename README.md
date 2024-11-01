@@ -22,7 +22,7 @@ This repository provides a comprehensive guide to image processing techniques fo
 
 **Advanced Image Analysis**
 * **Feature Extraction:** Learn techniques to extract meaningful features from images, such as texture, shape, and intensity.
-* **Statistical Analysis:** Apply statistical methods to analyze and interpret image data, including hypothesis testing and correlation analysis.
-* **Machine Learning:** Explore the application of machine learning algorithms to image analysis tasks, such as classification and segmentation.
+* **Statistical Analysis:** Apply statistical methods to analyze and interpret image data, including hypothesis testing and correlation analysis. (to be added)
+* **Machine Learning:** Explore the application of machine learning algorithms to image analysis tasks, such as classification and segmentation.  (to be added)
 
 By the end of this tutorial, you'll have a solid foundation in bioimage analysis and be able to apply these techniques to your own research projects.
